@@ -1,0 +1,4 @@
+.env
+.env.*
+threads.db*
+__pycache__/
